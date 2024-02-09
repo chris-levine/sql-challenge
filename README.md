@@ -1,1 +1,2 @@
 # sql-challenge
+This is my submission for the SQL challenge. The goal of this assignment was to make basic SQL queries. The first step was to correctly make tables and import data into those tables. Furthermore, some basic queries were made to find interesting data within the data set. I had to use join and filtering functions in order to do so. 
